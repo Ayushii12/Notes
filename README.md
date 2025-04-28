@@ -8,4 +8,4 @@
 2. **Mixed Practice (Neetcode 150 Shuffle)** 
    - Solve Neetcode 150 problems in a shuffled order to reinforce adaptability and recall  
 
-![Roadmap](images/roadmap.png)
+![Roadmap](images/Roadmap.png)
